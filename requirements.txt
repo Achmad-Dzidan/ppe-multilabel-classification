@@ -1,0 +1,6 @@
+# torch==2.1.0+cu118
+opencv-python
+torchvision
+numpy
+scikit-learn
+tqdm
